@@ -1,5 +1,5 @@
-# Spring 2017 IronHacks ReadMe :wink:
-## Spring 2017 Purdue and Bogota IronHacks :neckbeard: 
+# Fall 2017 IronHacks ReadMe :wink:
+## Fall 2017 Purdue and Bogota IronHacks :neckbeard: 
 
 ## 00 Pre-Analysis of Participant :purple_heart: 
 
